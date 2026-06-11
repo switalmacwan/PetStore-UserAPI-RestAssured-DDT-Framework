@@ -37,6 +37,9 @@ public class ExtentReportManager implements ITestListener {
 		extent.setSystemInfo("Project Name", "Pet Store API Automation");
 		extent.setSystemInfo("Operating System", System.getProperty("os.name"));
 		extent.setSystemInfo("User Name", System.getProperty("user.name"));
+		extent.setSystemInfo("Framework", "Rest Assured + TestNG");
+		extent.setSystemInfo("CI/CD", "Jenkins");
+		extent.setSystemInfo("Repository", "GitHub");
 		extent.setSystemInfo("Environment", "QA");
 		extent.setSystemInfo("Tester Name", "Swital");
 		
