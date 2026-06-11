@@ -1,0 +1,9 @@
+15:41:41.986 [main] INFO  api.tests.DDTTest - Deleting user with username: testuser1
+15:41:43.575 [main] INFO  api.tests.DDTTest - Deleting user with username: testuser2
+15:41:45.009 [main] INFO  api.tests.DDTTest - Deleting user with username: testuser3
+16:54:22.360 [main] INFO  api.tests.DDTTest_FromProperties - Deleting user with username: testuser1
+16:54:23.940 [main] INFO  api.tests.DDTTest_FromProperties - Deleting user with username: testuser2
+16:54:25.578 [main] INFO  api.tests.DDTTest_FromProperties - Deleting user with username: testuser3
+18:40:13.378 [main] INFO  api.tests.DDTTest_FromProperties - Deleting user with username: testuser1
+18:40:14.624 [main] INFO  api.tests.DDTTest_FromProperties - Deleting user with username: testuser2
+18:40:15.766 [main] INFO  api.tests.DDTTest_FromProperties - Deleting user with username: testuser3
